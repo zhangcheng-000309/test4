@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloud-order-discovery-client" />
+        <module name="springcloud-order-feign-hystrix" />
+        <module name="springcloud-config" />
+        <module name="springcloud-zuul" />
+        <module name="springcloud-order-feign" />
+        <module name="springcloud-consumer" />
+        <module name="springcloud-order-hystrix" />
+        <module name="springcloud-order" />
+        <module name="springcloud-pojo" />
+        <module name="springcloud-order-ribbon (1)" />
+        <module name="springcloud-eureka" />
+      </profile>
+      <profile name="Annotation profile for springcloud" enabled="true">
+        <sourceOutputDir name="../springcloud-order-ribbon/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../springcloud-order-ribbon/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloud-order-ribbon (2)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springcloud" target="1.8" />
+      <module name="springcloud-config" target="1.8" />
+      <module name="springcloud-consumer" target="1.8" />
+      <module name="springcloud-eureka" target="1.8" />
+      <module name="springcloud-order" target="1.8" />
+      <module name="springcloud-order-discovery-client" target="1.8" />
+      <module name="springcloud-order-feign" target="1.8" />
+      <module name="springcloud-order-feign-hystrix" target="1.8" />
+      <module name="springcloud-order-hystrix" target="1.8" />
+      <module name="springcloud-order-ribbon (1)" target="1.5" />
+      <module name="springcloud-order-ribbon (2)" target="1.8" />
+      <module name="springcloud-pojo" target="1.8" />
+      <module name="springcloud-zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

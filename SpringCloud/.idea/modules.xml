@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springcloud.iml" filepath="$PROJECT_DIR$/springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-config/springcloud-config.iml" filepath="$PROJECT_DIR$/springcloud-config/springcloud-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-consumer/springcloud-consumer.iml" filepath="$PROJECT_DIR$/springcloud-consumer/springcloud-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka/springcloud-eureka.iml" filepath="$PROJECT_DIR$/springcloud-eureka/springcloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-order/springcloud-order.iml" filepath="$PROJECT_DIR$/springcloud-order/springcloud-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-order-discovery-client/springcloud-order-discovery-client.iml" filepath="$PROJECT_DIR$/springcloud-order-discovery-client/springcloud-order-discovery-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-order-feign/springcloud-order-feign.iml" filepath="$PROJECT_DIR$/springcloud-order-feign/springcloud-order-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-order-feign-hystrix/springcloud-order-feign-hystrix.iml" filepath="$PROJECT_DIR$/springcloud-order-feign-hystrix/springcloud-order-feign-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-order-hystrix/springcloud-order-hystrix.iml" filepath="$PROJECT_DIR$/springcloud-order-hystrix/springcloud-order-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-order-ribbon/springcloud-order-ribbon (1).iml" filepath="$PROJECT_DIR$/springcloud-order-ribbon/springcloud-order-ribbon (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-order-zuul/springcloud-order-ribbon (2).iml" filepath="$PROJECT_DIR$/springcloud-order-zuul/springcloud-order-ribbon (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-pojo/springcloud-pojo.iml" filepath="$PROJECT_DIR$/springcloud-pojo/springcloud-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-zuul/springcloud-zuul.iml" filepath="$PROJECT_DIR$/springcloud-zuul/springcloud-zuul.iml" />
+    </modules>
+  </component>
+</project>
